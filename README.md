@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Madhu Saini</h1>
+<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Madhu Saini! </h1>
 <h3 align="center">A sophomore at CKPCET pursuing BE in Computer Engineering. I am an enthusiastic and a person take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhuSaini22&label=Profile%20views&color=129e00&style=plastic" alt="MadhuSaini22" /> </p>
