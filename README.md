@@ -1,17 +1,17 @@
 
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Madhu Saini! </h1>
-<h3 align="center">A sophomore at CKPCET pursuing BE in Computer Engineering. I am an enthusiastic and a person take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h3 align="center">A sophomore at <a href="https://ckpcet.ac.in/"> <b>CKPCET</b>, Surat</a> pursuing BE in Computer Engineering <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. I am an enthusiastic <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> and a person take up new challenges  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" />and learn new skills <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" />. I love meeting new people👨‍💻, exchanging ideas💡 and spreading knowledge and positivity <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhuSaini22&label=Profile%20views&color=129e00&style=plastic" alt="MadhuSaini22" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 
-- 📫 How to reach me **madhusaini46810@gmail.com**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> How to reach me **madhusaini46810@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> Fun fact **I think I am funny XD**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
  <a href="https://twitter.com/MadhuSaini22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MadhuSaini22" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/Madhu Saini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Madhu Saini" height="30" width="40" /></a>
