@@ -9,13 +9,12 @@
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> How to reach me **madhusaini46810@gmail.com**
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> Fun fact **I think I am funny XD**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> Fun fact **I'll definitely make you laugh using my kidu expressions XD**
 
 <h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
  <a href="https://twitter.com/MadhuSaini22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MadhuSaini22" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/madhu-saini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="madhu-saini" height="30" width="40" /></a>
-<a href="https://instagram.com/madhu___4567" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="madhu___4567" height="30" width="40" /></a>
 <a href="https://hackerrank.com/madhusaini46810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="madhusaini46810" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/madhu_saini22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="madhu_saini22" height="30" width="40" /></a>
  
