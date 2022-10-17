@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/madhu-saini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="madhu-saini" height="30" width="40" /></a>
 <a href="https://hackerrank.com/madhusaini46810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="madhusaini46810" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/madhu_saini22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="madhu_saini22" height="30" width="40" /></a>
+ <a href="https://leetcode.com/MadhuSaini22/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="madhu_saini22" height="30" width="40" /></a>
 
 </p>
 
