@@ -1,23 +1,63 @@
-<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">, I'm Madhu Saini! </h1>
-<h3 align="center">A final year student at <a href="https://ckpcet.ac.in/"> <b>CKPCET</b>, Surat</a> pursuing BE in Computer Engineering <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px" width="30px">. I am an enthusiastic <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="30px" width="36px"> and a person take up new challenges  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" height="30px" width="20px" />and learn new skills <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="30px" width="20px" />. I love meeting new people👩🏽‍🚀, exchanging ideas 💡 and spreading knowledge and positivity <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30px" width="30px">.</h3>
+<h1 align="center">Hi there 👋, I'm Madhu Saini!</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+ <p> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81684710/292617113-477cfec3-572b-4b79-b71f-bae96019bb5a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231223T083043Z&X-Amz-Expires=300&X-Amz-Signature=ecdda9efda4b6bce314994324376ccbe7e3e747c0bbd9f00e0dcfba5dcdf8465&X-Amz-SignedHeaders=host&actor_id=81684710&key_id=0&repo_id=401964386" align="right" alt="Coding" width="400"/> </p>
+ 
+- 🔭 I’m currently working on **web applications and browser extensions**
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="30px" width="20vw" /> How to reach me: **madhusaini46810@gmail.com**
+- 🌱 I’m currently learning **Advanced React Techniques and Node.js**
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30px" width="20vw" /> Fun fact: **I don't know anything about marvel 👀**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-<h3 align="left">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
+- 🤝 I’m looking for help with **Learning New Technologies and Best Practices**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**
+
+- 📫 How to reach me **madhusaini46810@gmail.com**
+
+- ⚡ Fun fact **I haven't seen friends.**
+
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
- <a href="https://twitter.com/MadhuSaini22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MadhuSaini22" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/madhu-saini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="madhu-saini" height="30" width="40" /></a>
-<a href="https://hackerrank.com/madhusaini46810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="madhusaini46810" height="30" width="40" /></a>
- <a href="https://www.codechef.com/users/madhu_saini22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="madhu_saini22" height="30" width="40" /></a>
- <a href="https://leetcode.com/MadhuSaini22/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="madhu_saini22" height="30" width="40" /></a>
-
+  <a href="https://twitter.com/MadhuSaini22" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MadhuSaini22" height="40" />
+  </a>
+  <a href="https://hashnode.com/@MadhuSaini22" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="MadhuSaini22" height="40" />
+  </a>
+  <a href="https://github.com/MadhuSaini22" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MadhuSaini22" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/madhu-saini" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="madhu-saini" height="40" />
+  </a>
+  <a href="https://www.codechef.com/users/madhu_saini22" target="blank">
+    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="madhu_saini22" height="40" />
+  </a>
+  <a href="https://leetcode.com/MadhuSaini22/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="madhu_saini22" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/madhusaini46810" target="blank">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="madhusaini46810" height="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhuSaini22&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSaini22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhuSaini22&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSaini22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
