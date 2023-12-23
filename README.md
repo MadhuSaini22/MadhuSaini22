@@ -61,3 +61,25 @@
 </p>
 
 ![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhuSaini22&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSaini22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">📝 Latest Blog Posts</h3>
+<p align="left">
+  <a href="https://madhu-open-source-journey.hashnode.dev/opensource">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673179577917/d9ce4d92-584e-4427-b53e-b840bb6bc17d.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog Title 1" width="330"/>
+  </a>
+  <a href="https://madhusaini22.hashnode.dev/next-pwa-app">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688403197489/79301758-6cbd-4448-ac33-332f8b1884e5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog Title 2" width="330"/>
+  </a>
+  <a href="https://madhusaini22.hashnode.dev/dom">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693076879335/dba87920-3976-48f8-aef1-45f863643454.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog Title 3" width="330"/>
+  </a>
+</p>
+<p align="center">
+  FOR MORE BLOGS⬇️<br><br>
+  <a href="https://hashnode.com/@MadhuSaini22" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="MadhuSaini22" height="40" />
+  </a>
+</p>
+
+
+
