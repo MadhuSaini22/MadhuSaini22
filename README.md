@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Madhu Saini!</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
- <p> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81684710/292617113-477cfec3-572b-4b79-b71f-bae96019bb5a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231223T083043Z&X-Amz-Expires=300&X-Amz-Signature=ecdda9efda4b6bce314994324376ccbe7e3e747c0bbd9f00e0dcfba5dcdf8465&X-Amz-SignedHeaders=host&actor_id=81684710&key_id=0&repo_id=401964386" align="right" alt="Coding" width="400"/> </p>
+ <p> <img src="https://github.com/MadhuSaini22/ag-grid-tables/assets/81684710/b74b9e45-202b-4bfd-80d4-23c9706a7903" align="right" alt="Coding" width="400"/> </p>
  
 - 🔭 I’m currently working on **web applications and browser extensions**
 
