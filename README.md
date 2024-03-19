@@ -70,8 +70,17 @@
   <a href="https://madhusaini22.hashnode.dev/next-pwa-app">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688403197489/79301758-6cbd-4448-ac33-332f8b1884e5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog Title 2" width="330"/>
   </a>
+  <a href="https://madhusaini22.hashnode.dev/building-your-own-rest-api-with-nodejs">
+    <img src="https://github.com/MadhuSaini22/ag-grid-tables/assets/81684710/e8b5acd2-8818-4cd2-8586-860a6bada228" alt="Blog Title 3" width="310"/>
+  </a>
+   <a href="https://madhusaini22.hashnode.dev/how-to-create-custom-events-in-javascript">
+    <img src="https://github.com/MadhuSaini22/ag-grid-tables/assets/81684710/3ff23e2d-309e-4a46-83f3-292db1e00009" alt="Blog Title 4" width="310"/>
+  </a>
+    <a href="https://madhusaini22.hashnode.dev/a-guide-to-ssr-csr-ssg-and-isr">
+    <img src="https://github.com/MadhuSaini22/ag-grid-tables/assets/81684710/f55aea4c-1994-438f-b08a-a10b0f120369" alt="Blog Title 5" width="310"/>
+  </a>
   <a href="https://madhusaini22.hashnode.dev/dom">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693076879335/dba87920-3976-48f8-aef1-45f863643454.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog Title 3" width="330"/>
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693076879335/dba87920-3976-48f8-aef1-45f863643454.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blog Title 6" width="330"/>
   </a>
 </p>
 <p align="center">
